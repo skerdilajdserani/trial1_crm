@@ -1,0 +1,6 @@
+C:\Users\skerdilajd.serani\source\repos\CrmTrial\CrmTrial\bin\Debug\CrmTrial.dll
+C:\Users\skerdilajd.serani\source\repos\CrmTrial\CrmTrial\bin\Debug\CrmTrial.pdb
+C:\Users\skerdilajd.serani\source\repos\CrmTrial\CrmTrial\obj\Debug\CrmTrial.csproj.AssemblyReference.cache
+C:\Users\skerdilajd.serani\source\repos\CrmTrial\CrmTrial\obj\Debug\CrmTrial.csproj.CoreCompileInputs.cache
+C:\Users\skerdilajd.serani\source\repos\CrmTrial\CrmTrial\obj\Debug\CrmTrial.dll
+C:\Users\skerdilajd.serani\source\repos\CrmTrial\CrmTrial\obj\Debug\CrmTrial.pdb
